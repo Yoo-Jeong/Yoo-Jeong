@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=7BD1D2&height=300&section=header&text=YooJeong%20Cho&fontSize=50)
 ### Hi there 👋
 
 <!--
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
