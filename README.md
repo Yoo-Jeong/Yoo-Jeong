@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7BD1D2&height=300&section=header&text=YooJeong%20Cho&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7BD1D2&height=300&section=header&text=⊙&fontSize=50)
 ### Hi there 👋
 
 <!--
