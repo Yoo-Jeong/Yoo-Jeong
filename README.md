@@ -1,4 +1,6 @@
+<!--  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoo-Jeong&count_bg=%23C8C7FF&title_bg=%2389A2ED&icon=&icon_color=%23E7E7E7&title=WELCOME++&edge_flat=true)](https://hits.seeyoufarm.com)
+-->
 
 <div align="center">
 <!--  
@@ -16,7 +18,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 
 
-### ✉ Contact 
+### ✉ Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jeongex@gmail.com)  
 
 
