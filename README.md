@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CFD1FA&height=100&section=header&text=⊙&fontColor=8F8F9D&fontSize=50)
 -->
 
-![Image](https://github.com/user-attachments/assets/623d4a96-043c-4173-8e6e-acf8919d210f)
+![Image](https://github.com/user-attachments/assets/0dbec9c9-5ee1-4a68-88c8-5804dd69c094)
 
 ### 💻 Stacks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
