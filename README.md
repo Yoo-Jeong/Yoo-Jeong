@@ -20,7 +20,7 @@
 
 
 ### ✉ Contact 
-<a href="mailto:jeongex@gmail.com" target="_blank"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jeongex@gmail.com)  
 
 
 
