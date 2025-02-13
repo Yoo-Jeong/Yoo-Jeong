@@ -13,7 +13,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX-85B900?style=flat-square&logoColor=white)  
+![DirectX](https://img.shields.io/badge/DirectX-85B900?style=flat-square&logoColor=white)
+![WinAPI](https://img.shields.io/badge/WinAPI-90b4f1?style=flat-square&logoColor=white)  
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 
